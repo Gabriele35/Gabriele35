@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there! 👋
 
+I'm **Gabriele**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### 🛠 Languages & Tools
+- 🐍 **Python**
+- 🌐 **HTML / CSS**
+- 🟨 **JavaScript**
+- ⚛️ **React**
 <!--
 **Gabriele35/Gabriele35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
