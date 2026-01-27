@@ -7,6 +7,8 @@ I'm **Gabriele**
 - 🌐 **HTML / CSS**
 - 🟨 **JavaScript**
 - ⚛️ **React**
+- ☕ **Java**
+- 🔵 **C / C++**
 <!--
 **Gabriele35/Gabriele35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
