@@ -2,6 +2,8 @@
 
 I'm **Gabriele**
 
+🎓 B.Sc. in Computer Science
+
 ### 🛠 Languages & Tools
 - 🐍 **Python**
 - 🌐 **HTML / CSS**
