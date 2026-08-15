@@ -61,7 +61,7 @@
 - **Description:** A web application handling secure, real-time table reservations with dynamic user data processing and an integrated multi-role Admin Dashboard.
 - **Tech Stack:** 🟢 Node.js, 🟨 JavaScript, 🌐 HTML5 / CSS3, 📁 JSON
 
-#### 🏎️ Koenigsegg Luxury Landing Page
+#### 🏎️ Koenigsegg  Landing Page
 - **Description:** A premium, high-performance automotive landing page featuring a dynamic media gallery, custom asymmetric layouts, and modern typography.
 - **Key Engineering Highlights:** Implemented smooth scroll mechanics, advanced parallax scrolling, and scroll-triggered animations to elegantly display engineering metrics and brand collaborations.
 - **Tech Stack:** 🌐 HTML5 / CSS3, 🟨 JavaScript
