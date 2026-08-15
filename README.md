@@ -1,27 +1,33 @@
-## Hi there! 👋
+# Hi there! 👋 I'm Gabriele
 
-I'm **Gabriele**
+🎓 **B.Sc. in Computer Science** | Incoming M.Sc. Student in Computer Engineering & AI
 
-🎓 B.Sc. in Computer Science
+---
 
-### 🛠 Languages & Tools
-- 🐍 **Python**
-- 🌐 **HTML / CSS**
-- 🟨 **JavaScript**
-- ⚛️ **React**
-- ☕ **Java**
-- 🔵 **C / C++**
-<!--
-**Gabriele35/Gabriele35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Technologies
 
-Here are some ideas to get you started:
+#### 💻 Programming Languages
+![Python](https://shields.io)
+![Java](https://shields.io)
+![C](https://shields.io)
+![C++](https://shields.io)
+![JavaScript](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Frontend & Frameworks
+![React](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![NodeJS](https://shields.io)
+![Streamlit](https://shields.io)
+
+#### 📊 Data Science & Machine Learning
+![🚀 Scikit-Learn](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+
+---
+
+### 🎯 Core Focus & Interests
+- 🧠 Machine Learning & Deep Learning Architectures
+- 💻 Software Engineering Principles & Clean Code
+- 🌐 Interactive Web Applications & Full-Stack Development
