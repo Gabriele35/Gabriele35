@@ -61,6 +61,10 @@
 * **Description:** An interactive behavioral analytics platform that performs RFM (Recency, Frequency, Monetary) analysis using the K-Means clustering algorithm. Features dynamic cluster scaling (2–10) in real time, data standardization via Scikit-Learn, automatic segment profiling, and interactive Plotly visualizations to drive data-backed marketing strategies.
 * **Tech Stack:** 🐍 Python, 🎈 Streamlit, ⚙️ Scikit-Learn, 🐼 Pandas, 🔢 NumPy, 📊 Plotly
 
+### 🎬 Smart Content-Based Recommender System
+* **Description:** A dynamic entertainment recommendation engine that suggests Movies or TV Shows based on user preferences. It processes text datasets to build a "bag of words" vector space using Scikit-Learn's CountVectorizer and computes text-based matching scores via Cosine Similarity. Includes real-time database switching, automated KPI metrics, and filtered search constraints.
+* **Tech Stack:** 🐍 Python, 🎈 Streamlit, ⚙️ Scikit-Learn (CountVectorizer, Cosine Similarity), 🐼 Pandas, 🔢 NumPy
+
 #### 🍔 Full-Stack Restaurant Booking App
 - **Description:** A web application handling secure, real-time table reservations with dynamic user data processing and an integrated multi-role Admin Dashboard.
 - **Tech Stack:** 🟢 Node.js, 🟨 JavaScript, 🌐 HTML5 / CSS3, 📁 JSON
