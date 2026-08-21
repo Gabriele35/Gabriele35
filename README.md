@@ -1,7 +1,7 @@
 # Hi there! 
 👋 I'm Gabriele
 
-🎓 **B.Sc. in Computer Science** | Incoming M.Sc. Student in Computer Engineering & AI
+🎓 **B.Sc. in Computer Science** 
 
 ---
 
