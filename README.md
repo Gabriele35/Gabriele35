@@ -53,15 +53,19 @@
 - **Tech Stack:** 🐍 Python, 🎈 Streamlit, 🚀 Scikit-learn, 🐼 Pandas, 📊 Seaborn
 - **Key Engineering Highlights:** Implemented memory caching (`@st.cache_resource`) to optimize backend latency, serialised models via `joblib`, and built an Explainable AI (XAI) layer extracting logistic regression coefficients for feature analysis.
 
-#### 📊 Statistical Analytics Dashboard & PDF Generator
-- **Description:** An interactive analytics tool that ingests dynamic data streams, executes automated statistical modeling, and exports comprehensive, professionally-formatted PDF reports.
-- **Tech Stack:** 🐍 Python, 🎈 Streamlit, 🐼 Pandas, 🔢 NumPy
+### 📊 Interactive Sentiment Analysis Dashboard
+* **Description:** A web-based machine learning sandbox that trains a Logistic Regression model in real time using TF-IDF vectorization. Features automated 80/20 train/test split validation, custom bulk CSV data processing with downloadable results, and an interactive single-sentence prediction sandbox with dynamic confidence scoring.
+* **Tech Stack:** 🐍 Python, 🎈 Streamlit, ⚙️ Scikit-Learn, 🐼 Pandas, 🔢 NumPy, 📉 Seaborn & Matplotlib
+
+### 🎯 Advanced Customer Segmentation Dashboard
+* **Description:** An interactive behavioral analytics platform that performs RFM (Recency, Frequency, Monetary) analysis using the K-Means clustering algorithm. Features dynamic cluster scaling (2–10) in real time, data standardization via Scikit-Learn, automatic segment profiling, and interactive Plotly visualizations to drive data-backed marketing strategies.
+* **Tech Stack:** 🐍 Python, 🎈 Streamlit, ⚙️ Scikit-Learn, 🐼 Pandas, 🔢 NumPy, 📊 Plotly
 
 #### 🍔 Full-Stack Restaurant Booking App
 - **Description:** A web application handling secure, real-time table reservations with dynamic user data processing and an integrated multi-role Admin Dashboard.
 - **Tech Stack:** 🟢 Node.js, 🟨 JavaScript, 🌐 HTML5 / CSS3, 📁 JSON
 
-#### 🏎️ Koenigsegg  Landing Page
+#### 🏎️ Koenigsegg Landing Page
 - **Description:** A premium, high-performance automotive landing page featuring a dynamic media gallery, custom asymmetric layouts, and modern typography.
 - **Key Engineering Highlights:** Implemented smooth scroll mechanics, advanced parallax scrolling, and scroll-triggered animations to elegantly display engineering metrics and brand collaborations.
 - **Tech Stack:** 🌐 HTML5 / CSS3, 🟨 JavaScript
