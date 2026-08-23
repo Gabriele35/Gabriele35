@@ -71,9 +71,9 @@
 - **Tech Stack:** 🌐 HTML5 / CSS3, 🟨 JavaScript
 
 ### 🏎️ Bugatti Interactive Brand Experience
-**Description:** A premium interactive landing page utilizing  CSS grid layouts and smooth transitions to celebrate the brand's heritage through luxury automotive workflows.
-**Key Engineering Highlights:** Engineered a fully dynamic, asymmetric media gallery grid and an elegant product showcase layout to ensure immersive visual storytelling and fluid component rendering.
-**Tech Stack:** 🌐 HTML5 / CSS3, 🟨 JavaScript 
+- **Description:** A premium interactive landing page utilizing  CSS grid layouts and smooth transitions to celebrate the brand's heritage through luxury automotive workflows.
+- **Key Engineering Highlights:** Engineered a fully dynamic, asymmetric media gallery grid and an elegant product showcase layout to ensure immersive visual storytelling and fluid component rendering.
+- **Tech Stack:** 🌐 HTML5 / CSS3, 🟨 JavaScript 
 
 #### 🍔 Full-Stack Restaurant Booking App
 - **Description:** A web application handling secure, real-time table reservations with dynamic user data processing and an integrated multi-role Admin Dashboard.
