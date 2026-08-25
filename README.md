@@ -10,7 +10,8 @@
 #### 💻 Programming Languages
 - 🐍 Python
 - ☕ Java
-- 🔵 C / C++
+- 🔵 C
+- 🔵 C++
 - 🟨 JavaScript
 
 #### 🌐 Frontend & Frameworks
@@ -24,6 +25,7 @@
 - 🚀 Scikit-learn
 - 🐼 Pandas
 - 🔢 NumPy
+- 🎈 Streamlit 
 
 #### ⚙️ Developer Tools
 - 💻 PyCharm / WebStorm / VS Code
