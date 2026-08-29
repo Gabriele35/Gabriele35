@@ -55,6 +55,16 @@
 - **Tech Stack:** 🐍 Python, 🎈 Streamlit, 🚀 Scikit-learn, 🐼 Pandas, 📊 Seaborn
 - **Key Engineering Highlights:** Implemented memory caching (`@st.cache_resource`) to optimize backend latency, serialised models via `joblib`, and built an Explainable AI (XAI) layer extracting logistic regression coefficients for feature analysis.
 
+#### 📊 Real-Time Streaming Fraud Detection
+- **Description:** A production-ready MLOps application and interactive dashboard that monitors financial transaction streams to detect and capture fraudulent anomalies in real-time.
+- **Tech Stack:** 🐍 Python, 🎈 Streamlit, 🚀 Scikit-learn, 🐼 Pandas, 🛠️ Joblib
+- **Key Engineering Highlights:** Architected a modular multi-file pipeline with custom imbalanced data generation (0.5% fraud), enforced strict leakage-free feature scaling, and deployed a serialized live inference engine updating session metrics every second.
+
+#### ⚙️ Predictive Maintenance & Industrial Sensor Monitoring
+- **Description:** A production-ready Machine Learning pipeline and interactive edge-ready dashboard that predicts industrial machinery failures by monitoring multi-sensor degradation patterns.
+- **Tech Stack:** 🐍 Python, 🎈 Streamlit, 🚀 XGBoost, 🐼 Pandas, 📊 Scikit-learn
+- **Key Engineering Highlights:** Developed a custom time-series physics-based synthesis engine, implemented 10-minute rolling window transformations for temporal feature extraction, and optimized a gradient-boosted architecture tuned for highly skewed failure distributions.
+
 ### 📊 Interactive Sentiment Analysis Dashboard
 * **Description:** A web-based machine learning sandbox that trains a Logistic Regression model in real time using TF-IDF vectorization. Features automated 80/20 train/test split validation, custom bulk CSV data processing with downloadable results, and an interactive single-sentence prediction sandbox with dynamic confidence scoring.
 * **Tech Stack:** 🐍 Python, 🎈 Streamlit, ⚙️ Scikit-Learn, 🐼 Pandas, 🔢 NumPy, 📉 Seaborn & Matplotlib
