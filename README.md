@@ -2,7 +2,7 @@
 👋 I'm Gabriele
 
 🎓 **B.Sc. in Computer Science** 
-
+Machine Learning & AI Enthusiast
 ---
 
 ### 🛠️ Languages & Technologies
